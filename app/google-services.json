@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "890157731239",
+    "firebase_url": "https://orderfood-e1b88-default-rtdb.firebaseio.com",
+    "project_id": "orderfood-e1b88",
+    "storage_bucket": "orderfood-e1b88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890157731239:android:ecba9e37c08dfce283ba82",
+        "android_client_info": {
+          "package_name": "com.example.appbanmypham"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz6leHM7x5jPHlsrE5-eI_VziQvbw0pJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890157731239:android:acebb690808818b083ba82",
+        "android_client_info": {
+          "package_name": "com.example.orderapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz6leHM7x5jPHlsrE5-eI_VziQvbw0pJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890157731239:android:26a861172478881a83ba82",
+        "android_client_info": {
+          "package_name": "com.example.orderfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz6leHM7x5jPHlsrE5-eI_VziQvbw0pJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:enabled="true"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Trang chủ"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/allCategory"
+        android:enabled="true"
+        android:icon="@drawable/baseline_category_24"
+        android:title="Danh sách thể loại"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/cartFragment"
+        android:enabled="true"
+        android:icon="@drawable/baseline_shopping_cart_24"
+        android:title="Giỏ hàng"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/orderHistoryFragment"
+        android:enabled="true"
+        android:icon="@drawable/baseline_history_24"
+        android:title="Lịch sử mua hàng"
+        app:showAsAction="ifRoom" />
+
+
+    <item
+        android:id="@+id/profileFragment"
+        android:enabled="true"
+        android:icon="@drawable/baseline_account_circle_24"
+        android:title="Profile"
+        app:showAsAction="ifRoom" />
+
+
+</menu>
